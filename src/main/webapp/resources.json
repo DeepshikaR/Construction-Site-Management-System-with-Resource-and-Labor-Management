@@ -1,0 +1,38 @@
+[
+    { 
+      "ID" : 1,
+      "Name": "TMT", 
+      "Type": "Core",
+      "Brand": "TATA" 
+    },
+    {
+        "ID" : 2,
+        "Name": "Bricks", 
+        "Type": "Core",
+        "Brand": "TATA" 
+    },
+    {
+        "ID" : 3,
+        "Name": "Wire", 
+        "Type": "Electrical",
+        "Brand": "Havels" 
+    },
+    {
+        "ID" : 4,
+        "Name": "Fuse", 
+        "Type": "Electrical",
+        "Brand": "Havels" 
+    },
+    {
+        "ID" : 5,
+        "Name": "Pipe", 
+        "Type": "Plumbing",
+        "Brand": "Birla" 
+    },
+    {
+        "ID" : 6,
+        "Name": "Valve", 
+        "Type": "Plumbing",
+        "Brand": "Birla" 
+    }   
+,{"ID":"7","Name":"Cement","Type":"Core","Brand":"Dalmia"}]
